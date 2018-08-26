@@ -1,0 +1,17 @@
+D:\University Learning\Project\ProjectTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\University Learning\Project\ProjectTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+D:\University Learning\Project\ProjectTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+D:\University Learning\Project\ProjectTests\bin\Debug\netcoreapp2.0\ProjectTests.deps.json
+D:\University Learning\Project\ProjectTests\bin\Debug\netcoreapp2.0\ProjectTests.runtimeconfig.json
+D:\University Learning\Project\ProjectTests\bin\Debug\netcoreapp2.0\ProjectTests.runtimeconfig.dev.json
+D:\University Learning\Project\ProjectTests\bin\Debug\netcoreapp2.0\ProjectTests.dll
+D:\University Learning\Project\ProjectTests\bin\Debug\netcoreapp2.0\ProjectTests.pdb
+D:\University Learning\Project\ProjectTests\bin\Debug\netcoreapp2.0\Project.dll
+D:\University Learning\Project\ProjectTests\bin\Debug\netcoreapp2.0\Project.pdb
+D:\University Learning\Project\ProjectTests\obj\Debug\netcoreapp2.0\ProjectTests.csprojAssemblyReference.cache
+D:\University Learning\Project\ProjectTests\obj\Debug\netcoreapp2.0\ProjectTests.csproj.CoreCompileInputs.cache
+D:\University Learning\Project\ProjectTests\obj\Debug\netcoreapp2.0\ProjectTests.AssemblyInfoInputs.cache
+D:\University Learning\Project\ProjectTests\obj\Debug\netcoreapp2.0\ProjectTests.AssemblyInfo.cs
+D:\University Learning\Project\ProjectTests\obj\Debug\netcoreapp2.0\ProjectTests.csproj.CopyComplete
+D:\University Learning\Project\ProjectTests\obj\Debug\netcoreapp2.0\ProjectTests.dll
+D:\University Learning\Project\ProjectTests\obj\Debug\netcoreapp2.0\ProjectTests.pdb

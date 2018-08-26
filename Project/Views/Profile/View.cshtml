@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "View";
+}
+
+<h3>
+    Profile of @if (ViewData["role"].ToString() == "Admin")
+    {<span>admin</span> }
+    else
+    { <span>student</span>}
+    @ViewData["name"]
+</h3>
+<h4>Username : @ViewData["username"]</h4>
+<br />

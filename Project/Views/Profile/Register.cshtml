@@ -1,0 +1,37 @@
+﻿@{
+    ViewData["Title"] = "Register";
+}
+@model Project.Models.RegisterModel
+<h3>Registration</h3>
+<hr />
+<form class="form-horizontal" asp-controller="Profile" asp-action="Register" method="post">
+    <div class="form-group" align="center">
+        <div class="col-sm-10" style="width:48%;float:unset;display: inline-flex;">
+            <label class="col-sm-2 control-label" asp-for="UserName" style="text-align: right;width: 300px;float:unset;">Your login:</label>
+            <input class="form-control" asp-for="UserName" />
+        </div>
+    </div>
+    <div class="form-group" align="center">
+        <div class="col-sm-10" style="width:48%;float:unset;display: inline-flex;">
+            <label class="col-sm-2 control-label" asp-for="Password" style="text-align: right;width: 300px;float:unset;">Your password:</label>
+            <input class="form-control" type="password" asp-for="Password" />
+        </div>
+    </div>
+    <div class="form-group" align="center">
+        <div class="col-sm-10" style="width:48%;float:unset;display: inline-flex;">
+            <label class="col-sm-2 control-label" asp-for="Name" style="text-align: right;width: 300px;float:unset;">Name and Surname:</label>
+            <input class="form-control" asp-for="Name" />
+        </div>
+    </div>
+    <div class="form-group" align="center">
+        <div class="col-sm-10" style="width:48%;float:unset;display: inline-flex;">
+            <label class="col-sm-2 control-label" asp-for="Email" style="text-align: right;width: 300px;float:unset;">Your e-mail:</label>
+            <input class="form-control" asp-for="Email" />
+        </div>
+    </div>
+    <div align="center">
+        <button class="btn btn-success" type="submit">Registration</button>
+    </div>
+</form>
+<br />
+<div asp-validation-summary=" All" class="text-danger"></div>
